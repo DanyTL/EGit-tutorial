@@ -5,6 +5,7 @@ public class Example {
 	{
 		System.out.println("Primul commit!");
 		System.out.println("Al doilea commit!!!");
+		System.out.println("Al treilea commit!!!!");
 	}
 	
 }
